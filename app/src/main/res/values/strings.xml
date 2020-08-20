@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpotifyExercise</string>
+    <string name="login_button">Login</string>
+    <string name="search_artist">Search for an artist…</string>
+    <string name="artist_image">Artist Image</string>
+    <string name="preview_spotify">Preview on Spotify</string>
+    <string name="album">Albums</string>
+</resources>
